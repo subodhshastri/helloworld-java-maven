@@ -15,8 +15,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  
-  <distributionManagement>
+    <distributionManagement>
   <repository>
   <id>deployment</id>
   <name>Internal Releases1</name>
